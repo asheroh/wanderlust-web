@@ -96,7 +96,7 @@
 <hr/>
 
 ### 배포 링크
-> http://www.roberniro-projects.xyz/
+> https://wanderlust-cms.netlify.app/
 
 ### 유튜브 시연
 > https://www.youtube.com/watch?v=EyDKypFDwgE

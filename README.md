@@ -101,6 +101,6 @@
 ### 유튜브 시연
 > https://www.youtube.com/watch?v=EyDKypFDwgE
 
-### 발표 자료
+### 관련 자료
 > https://drive.google.com/drive/folders/1bAkz9T9r50oekLjm5VMDQYYh0wHFJowW
 
